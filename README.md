@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasti</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate tech enthusiast!</h3>
 <img align="right" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 - 🔭 I’m currently working on **Application Tracking System**
 
-- 🌱 I’m currently learning **React Js and Backend Development**
+- 🌱 I’m currently learning **Cloud and Cybersecurity**
 
 - 💬 Ask me about **Flutter, MERN**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hasti-gabani-503a9927b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hasti-gabani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasti-gabani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hasti-gabani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
